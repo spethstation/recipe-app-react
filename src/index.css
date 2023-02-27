@@ -5,15 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0% 10%;
+  background-color: rgba(135, 207, 235, 0.397);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
-
-.FanFavs img {
-  border-radius: 15px;
-  width: 150px;
-  padding: 10px;
 }
