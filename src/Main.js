@@ -1,10 +1,10 @@
 import React from "react";
-import FanFavs from "./FanFavs";
+import Favs from "./Favs";
 
 export default function Main() {
   return (
     <div>
-      <FanFavs />
+      <Favs />
     </div>
   );
 }

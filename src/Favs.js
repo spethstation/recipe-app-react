@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
-import "./FanFavs.css";
+import "./index.css";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import "@splidejs/splide/dist/css/splide.min.css";
 
-export default function FanFavs() {
+export default function Favs() {
   const [random, setRandom] = useState([]);
 
   useEffect(() => {
